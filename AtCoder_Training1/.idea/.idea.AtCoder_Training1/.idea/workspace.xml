@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2709f49-665b-4445-8485-620dee55498a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC151.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -23,6 +25,8 @@
       <list>
         <option value="$PROJECT_DIR$/AtCoder_Training1/Program.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" />
+        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" />
+        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC151.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580827007576</updated>
-      <workItem from="1580827008982" duration="2045000" />
+      <workItem from="1580827008982" duration="3158000" />
     </task>
     <servers />
   </component>
@@ -189,5 +193,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1580827148509" />
+    <state x="444" y="161" key="VCS.ChangeListViewerDialog" timestamp="1580999963698">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="161" key="VCS.ChangeListViewerDialog/0.0.1440.900@0.0.1440.900" timestamp="1580999963698" />
   </component>
 </project>
