@@ -4,8 +4,6 @@
     <list default="true" id="b2709f49-665b-4445-8485-620dee55498a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtCoder_Training1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +17,16 @@
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC151.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC150.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AtCoder_Training1/Program.cs" />
-        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC151.cs" />
+        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" />
+        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC150.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580827007576</updated>
-      <workItem from="1580827008982" duration="3158000" />
+      <workItem from="1580827008982" duration="3956000" />
     </task>
     <servers />
   </component>
@@ -197,5 +197,24 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="444" y="161" key="VCS.ChangeListViewerDialog/0.0.1440.900@0.0.1440.900" timestamp="1580999963698" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AtCoder_Training1/ABC153.cs</url>
+          <line>53</line>
+          <properties documentPath="$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" initialLine="53">
+            <startOffsets>
+              <option value="906" />
+            </startOffsets>
+            <endOffsets>
+              <option value="934" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
