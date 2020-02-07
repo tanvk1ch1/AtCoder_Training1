@@ -15,6 +15,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC149.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC151.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC153.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC150.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,6 +28,7 @@
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC151.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC152.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC150.cs" />
+        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC149.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580827007576</updated>
-      <workItem from="1580827008982" duration="3956000" />
+      <workItem from="1580827008982" duration="4646000" />
     </task>
     <servers />
   </component>
