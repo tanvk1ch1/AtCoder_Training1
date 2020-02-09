@@ -5,6 +5,7 @@
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_AtCoder_Training1.-33874156.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="AtCoder_Training1" t="IncludeRecursive">
+        <e p="ABC148.cs" t="Include" />
         <e p="ABC149.cs" t="Include" />
         <e p="ABC150.cs" t="Include" />
         <e p="ABC151.cs" t="Include" />
