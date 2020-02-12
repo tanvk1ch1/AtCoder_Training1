@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC146.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC148.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC150.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC145.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AtCoder_Training1/ABC147.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -35,6 +36,7 @@
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC148.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC147.cs" />
         <option value="$PROJECT_DIR$/AtCoder_Training1/ABC146.cs" />
+        <option value="$PROJECT_DIR$/AtCoder_Training1/ABC145.cs" />
       </list>
     </option>
   </component>
@@ -101,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1580827007576</updated>
       <workItem from="1580827008982" duration="6104000" />
-      <workItem from="1581416023595" duration="242000" />
+      <workItem from="1581416023595" duration="464000" />
+      <workItem from="1581526724744" duration="343000" />
     </task>
     <servers />
   </component>
